@@ -1,0 +1,19 @@
+#Configuration for Awesome Window Manager
+
+Quite a bit of this is taken from other user's configs and http://awesome.naquadah.org/ 
+
+##Installation
+
+###Dependencies
+* Awesome Vain - https://github.com/vain/awesome-vain
+
+* Various utilities such as pcmanfm, urxvt, chromium, etc that can all be changed.
+
+##Instructions
+
+* Copy the rc.lua to $HOME/.config/awesome/rc.lua
+
+* Restart Awesome using Ctrl+Modkey+R
+
+Some commands/menu items might not work, you can either install them or change in your rc.lua.
+Note that I don't use the panel/systray that comes with awesome.
